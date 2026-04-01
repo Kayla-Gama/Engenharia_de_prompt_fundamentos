@@ -1,3 +1,9 @@
+COMANDO: faça um codigo em python de uma calculadora 
+
+IA: Com certeza! Vou criar uma calculadora funcional e organizada, utilizando funções para deixar o código limpo e fácil de entender.
+
+Esta versão roda diretamente no terminal e permite que você escolha a operação e os números de forma interativa.
+
 def adicionar(x, y):
     return x + y
 
@@ -52,3 +58,14 @@ def calculadora():
 
 if __name__ == "__main__":
     calculadora()
+
+Destaques do Código:
+Estrutura de Funções: Cada operação matemática tem sua própria função (def), o que facilita a manutenção e leitura.
+
+Tratamento de Erros: Usei o bloco try...except para evitar que o programa feche caso o usuário digite uma letra onde deveria ser um número.
+
+Divisão por Zero: O código verifica se o divisor é zero antes de tentar calcular, evitando o erro clássico de sistema ZeroDivisionError.
+
+Loop Contínuo: A calculadora continua rodando (while True) até que você decida sair digitando 's'.
+
+Para rodar, basta salvar o código em um arquivo chamado calculadora.py e executar no seu terminal com o comando python calculadora.py.
