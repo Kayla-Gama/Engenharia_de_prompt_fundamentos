@@ -5,4 +5,4 @@ ETAPA 03: <img width="862" height="405" alt="Captura de tela 2026-04-01 200719" 
 
 <img width="540" height="348" alt="Captura de tela 2026-04-01 200738" src="https://github.com/user-attachments/assets/5be0a8bf-2e91-43ce-bf5b-a62ef9795c25"/>
 
-A divisão de tokens ajuda a IA a focar em varias partes do texto e assim resolvendo o seu prompt com mais precisão num tempo de resposta rápido.
+A divisão de tokens ajuda a IA a focar em varias partes do texto e assim resolvendo o seu prompt com mais precisão em um tempo de resposta mais curto.
