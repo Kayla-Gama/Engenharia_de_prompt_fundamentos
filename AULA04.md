@@ -1,4 +1,5 @@
 CODIGO SIMPLES: 
+
 <img width="603" height="93" alt="Captura de tela 2026-04-01 203500" src="https://github.com/user-attachments/assets/61697d6b-05e9-44bc-b384-fb52a5c2dce6" />
 
 # Solicita dois números ao usuário
@@ -13,6 +14,7 @@ print("O resultado da soma é:", soma)
 
 
 CODIGO ESTRUTURADO:
+
 <img width="623" height="156" alt="Captura de tela 2026-04-01 203427" src="https://github.com/user-attachments/assets/b39244a8-a256-4abe-b9c9-ff672cb02d49" />
 
 def somar_numeros():
